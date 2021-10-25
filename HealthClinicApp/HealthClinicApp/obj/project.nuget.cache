@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CXctHw1Js1qQjm7Ch2XjY/xHkalTLbGfyR+3ijmE26HDQksYP43iQ80T2mgd1Z44o060n2Ykye69+j9tBS5DuQ==",
+  "success": true,
+  "projectFilePath": "E:\\DevGit\\DevOps-Explained\\HealthClinicApp\\HealthClinicApp\\HealthClinicApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tene\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tene\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Tene\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.5\\swashbuckle.aspnetcore.6.1.5.nupkg.sha512",
+    "C:\\Users\\Tene\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.5\\swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",
+    "C:\\Users\\Tene\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.5\\swashbuckle.aspnetcore.swaggergen.6.1.5.nupkg.sha512",
+    "C:\\Users\\Tene\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.5\\swashbuckle.aspnetcore.swaggerui.6.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
